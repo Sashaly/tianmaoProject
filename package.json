@@ -18,6 +18,6 @@
     "gulp-webserver": "^0.9.1",
     "http-proxy-middleware": "^0.19.1",
     "string-loader": "0.0.1",
-    "webpack-stream": "^5.2.1"
+    "webpack-stream": "^7.0.0"
   }
 }
